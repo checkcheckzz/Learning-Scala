@@ -1,14 +1,14 @@
-Learning Scala
-========
+[![logo](img/scala.jpg)](https://github.com/checkcheckzz/Learning-Scala)
+
+>A collection of materials to learn Scala
 
 ###Who is using Scala
 
-[List1](http://www.scala-lang.org/old/node/1658)
+[Scala in the Enterprise](http://www.scala-lang.org/old/node/1658)
 
-[List2](http://www.quora.com/What-startups-or-tech-companies-are-using-Scala)
+[What startups or tech companies are using Scala?](http://www.quora.com/What-startups-or-tech-companies-are-using-Scala)
  
-[List3](http://alvinalexander.com/scala/whos-using-scala-akka-play-framework)
-
+[Who's using Scala?](http://alvinalexander.com/scala/whos-using-scala-akka-play-framework)
 
 ###Start
 
@@ -88,9 +88,3 @@ functional programming & mutable state, futures & monad, reactive stream process
 ###Help
 
 [StackOverflow](http://stackoverflow.com/questions/tagged/scala)
-
-
-
-
-
-
