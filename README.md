@@ -6,6 +6,7 @@ Learning Scala
 
 
 ###Start
+->run your first scala program
 
 Download the latest [Scala version](http://www.scala-lang.org/download/).
 
@@ -66,11 +67,15 @@ lists, collections & combinatorial search, lazy evaluation.
 
 [This week in #Scala](http://www.cakesolutions.net/teamblogs)
 
-[Pavel Fatin](https://pavelfatin.com/category/scala-2/)
+[Daily scala](http://daily-scala.blogspot.com/)
 
-[alvin alexander](http://alvinalexander.com/search/node/scala)
+[reddit](http://www.reddit.com/r/scala)
 
-[knoldus](http://blog.knoldus.com/category/scala-3/)
+[Scala Blogs](http://scala-blogs.feedcluster.com/)
+
+[Code Commit](http://www.codecommit.com/blog/category/scala)
+
+[ScalaDev](http://www.scaladev.net/)
 
 ###Library
 
@@ -83,4 +88,18 @@ lists, collections & combinatorial search, lazy evaluation.
 [StackOverflow](http://stackoverflow.com/questions/tagged/scala)
 
 ###Online Judge
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+
+
+
 
