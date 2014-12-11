@@ -1,12 +1,16 @@
 Learning Scala
 ========
 
-###Motivation
+###Who is using Scala
 
+[List1](http://www.scala-lang.org/old/node/1658)
+
+[List2](http://www.quora.com/What-startups-or-tech-companies-are-using-Scala)
+ 
+[List3](http://alvinalexander.com/scala/whos-using-scala-akka-play-framework)
 
 
 ###Start
-->run your first scala program
 
 Download the latest [Scala version](http://www.scala-lang.org/download/).
 
@@ -18,10 +22,10 @@ If you want to write a large scala project, you may need some tools such as [SBT
 ###MOOC
 
 [Functional Programming Principles in Scala](https://www.coursera.org/course/progfun) taught by Martin Odersky. A very good course covers 
-scala basic, functions, recursion, immutable objects, inheritance, types & pattern matching, 
-lists, collections & combinatorial search, lazy evaluation.
+scala basic, functions, recursion, immutable objects, inheritance, types & pattern matching, lists, collections & combinatorial search and lazy evaluation.
 
-[Principles of Reactive Programming](https://www.coursera.org/course/reactive) taught by Martin Odersky, Erik Meijer and Roland Kuhn. A following course covers
+[Principles of Reactive Programming](https://www.coursera.org/course/reactive) taught by Martin Odersky, Erik Meijer and Roland Kuhn. A following course covers 
+functional programming & mutable state, futures & monad, reactive stream processing, actors, supervision and conversiona patterns.
 
 ###Book
 
@@ -36,8 +40,6 @@ lists, collections & combinatorial search, lazy evaluation.
 [Scala in Action](http://www.amazon.com/Scala-Action-Nilanjan-Raychaudhuri/dp/1935182757/ref=sr_1_1?s=books&ie=UTF8&qid=1418273002&sr=1-1&keywords=scala+in+action)
 
 [Functional Programming in Scala](http://www.amazon.com/Functional-Programming-Scala-Paul-Chiusano/dp/1617290653/ref=pd_sim_b_5?ie=UTF8&refRID=1ABW4PNG8NPWP68Q9YXG)
-
-###Video
 
 ###Tutorial
 
@@ -61,8 +63,6 @@ lists, collections & combinatorial search, lazy evaluation.
 
 ###Update
 
-[Scala Meetup Groups](http://scala.meetup.com/)
-
 [Typesafe](http://typesafe.com/blog)
 
 [This week in #Scala](http://www.cakesolutions.net/teamblogs)
@@ -77,6 +77,8 @@ lists, collections & combinatorial search, lazy evaluation.
 
 [ScalaDev](http://www.scaladev.net/)
 
+[Scala Meetup Groups](http://scala.meetup.com/)
+
 ###Library
 
 [awesome-scala](https://github.com/lauris/awesome-scala)
@@ -87,17 +89,6 @@ lists, collections & combinatorial search, lazy evaluation.
 
 [StackOverflow](http://stackoverflow.com/questions/tagged/scala)
 
-###Online Judge
-
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
 
 
 
