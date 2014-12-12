@@ -61,7 +61,7 @@ functional programming & mutable state, futures & monad, reactive stream process
 
 [scala-best-practices](https://github.com/alexandru/scala-best-practices)
 
-###Update
+###Blogs
 
 [Typesafe](http://typesafe.com/blog)
 
@@ -77,7 +77,6 @@ functional programming & mutable state, futures & monad, reactive stream process
 
 [ScalaDev](http://www.scaladev.net/)
 
-[Scala Meetup Groups](http://scala.meetup.com/)
 
 ###Library
 
