@@ -10,6 +10,12 @@
  
 [Who's using Scala?](http://alvinalexander.com/scala/whos-using-scala-akka-play-framework)
 
+###Why
+
+[Why we love Scala at Coursera](https://tech.coursera.org/blog/2014/02/18/why-we-love-scala-at-coursera/)  
+
+[How and Why Twitter Uses Scala](http://blog.redfin.com/devblog/2010/05/how_and_why_twitter_uses_scala.html#.VI7yzPl3bgU)
+
 ###Start
 
 Download the latest [Scala version](http://www.scala-lang.org/download/).
@@ -18,6 +24,7 @@ Use a text editor such as [Sublime Text](https://www.sublimetext.com/), [Vim](ht
 
 If you want to write a large scala project, you may need some tools such as [SBT](http://www.scala-sbt.org/), the [Scala IDE](http://scala-ide.org/?_ga=1.269024689.1997628608.1417240943), 
 [IntelliK IDEA with the Scala plugin](http://www.jetbrains.com/idea/) or [NetBeans IDE with the scala plugin](https://netbeans.org/). 
+
 
 ###MOOC
 
@@ -60,6 +67,8 @@ functional programming & mutable state, futures & monad, reactive stream process
 [Scala Style Guide](http://docs.scala-lang.org/style/?_ga=1.105494339.1997628608.1417240943)
 
 [scala-best-practices](https://github.com/alexandru/scala-best-practices)
+
+[The Scala Language Specification](http://www.scala-lang.org/docu/files/ScalaReference.pdf)
 
 ###Blogs
 
